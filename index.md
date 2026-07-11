@@ -1,7 +1,4 @@
-# portfolio2
----
-layout: default
----
+# Portfolio
 
 A nursery professional, statistician, and digital mapper seeking to combine the best of all worlds. 
 
