@@ -14,8 +14,8 @@ One of the most frequently asked questions at my nursery is "where is x plant?" 
 
 <img src="images/nursery_map/full_map.png" alt="digital map of plant nursery" width="500">
 
-![digital map of plant nursery](images/nursery_map/full_map.png)
-![digital map of plant nursery](images/nursery_map/fruittree_popup.png)
+![digital map of plant nursery](assets/images/nursery_map/full_map.png)
+![digital map of plant nursery](assets/images/nursery_map/fruittree_popup.png)
 ![digital map of plant nursery](images/nursery_map/native_popup.png)
 
 ## Park Tree Inventory 
