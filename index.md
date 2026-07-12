@@ -12,16 +12,10 @@ One of the benefits of a digital map is the ability to transform space into a da
 
 One of the most frequently asked questions at my nursery is "where is x plant?" I created a digital map of the nursery so that customers and staff can address questions that begin with Where.
 
-<img src="images/nursery_map/full_map.png" alt="digital map of plant nursery" width="500">
 
-<<<<<<< HEAD
 ![digital map of plant nursery](assets/images/nursery_map/full_map.png)
-![digital map of plant nursery](images/nursery_map/fruittree_popup.png)
-=======
-![digital map of plant nursery](/assets/images/nursery_map/full_map.png)
 ![digital map of plant nursery](assets/images/nursery_map/fruittree_popup.png)
->>>>>>> e98d58b3968890c9db220ab04ac4bbd16c051015
-![digital map of plant nursery](images/nursery_map/native_popup.png)
+![digital map of plant nursery](assets/images/nursery_map/native_popup.png)
 
 ## Park Tree Inventory 
 
