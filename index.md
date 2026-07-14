@@ -16,9 +16,9 @@ Map of Nursery
 One of the most frequently asked questions at my nursery is "where is x plant?" I created a digital map of the nursery so that customers and staff can address questions like these.
 
 
-![digital map of plant nursery](assets/images/nursery_map/full_map.png)
-![digital map of plant nursery](assets/images/nursery_map/fruittree_popup.png)
-![digital map of plant nursery](assets/images/nursery_map/native_popup.png)
+![digital map of plant nursery](assets/img/nursery_map/full_map.png)
+![digital map of plant nursery](assets/img/nursery_map/fruittree_popup.png)
+![digital map of plant nursery](assets/img/nursery_map/native_popup.png)
 
 ```
 Park Tree Inventory 
