@@ -39,7 +39,7 @@ While completing a Master degree in Statistics at San Francisco State Universtiy
 
 ```python
 
-#Helper functions
+Helper functions
 
 """
 This function is used to create a permutation of the vertices of an n-sided polygon induced by rotations and reflections. 
@@ -81,7 +81,7 @@ Naïve Bayes Classifier can be used to predict the value of a response variable 
 ## Quantitative Analysis 
 
 ```
-Analyzing survey data on healthcare membership satisfaction
+Large survey data analysis
 ```
 
 
