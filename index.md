@@ -37,7 +37,7 @@ While completing a Master degree in Statistics at San Francisco State Universtiy
     
 <div style="max-height: 150px; max-width: 100%; overflow: auto;">
 
-```python
+```
 
 Helper functions
 
