@@ -36,8 +36,7 @@ While completing a Master degree in Statistics at San Francisco State Universtiy
 ![visualizing geometric symmetries](assets/img/visGeomSym.png)
     
 <div style="max-height: 150px; max-width: 100%; overflow: auto;">
-
-```python
+<pre><code class="language-python">
 
 Helper functions
 
@@ -66,8 +65,7 @@ def Rn(n,start,ref):
         if val == 0:  # n mod n is 0, val = 0. But we want val = n
             val = n
     return R
-
-```
+</code></pre>
 
 </div>
 
