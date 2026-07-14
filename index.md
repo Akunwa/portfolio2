@@ -31,7 +31,9 @@ Park Tree Inventory
 ```
 Visualizing Geometric Symmetries
 ```
-While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course. I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying shape. I wondered what a square's multiplication talbe looked like with color. I computed the multiplication tables of squares, hexagons, and rectangles in <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/Visualizing%20Geometric%20Symmetries%20(2).ipynb" target="_blank" rel="noreferrer noopener">Python</a>, then applied heat maps to these tables to reveal their symmetries. <a href="Akunwa/portfolio2/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">Test Link</a>
+While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course. I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying shape. I wondered what a square's multiplication talbe looked like with color. I computed the multiplication tables of squares, hexagons, and rectangles in <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/Visualizing%20Geometric%20Symmetries%20(2).ipynb" target="_blank" rel="noreferrer noopener">Python</a>, then applied heat maps to these tables to reveal their symmetries. <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">Test Link</a>
+
+
 
 ![visualizing geometric symmetries](assets/img/geomSymWebImg.png)
 
