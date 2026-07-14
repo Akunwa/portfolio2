@@ -17,9 +17,8 @@ One of the most frequently asked questions at my nursery is "where is x plant?" 
 
 
 ![digital map of plant nursery](assets/img/nursery_map/full_map.png)
-![digital map of plant nursery](assets/img/nursery_map/fruittree_popup.png)
 ![digital map of plant nursery](assets/img/nursery_map/native_popup.png)
-
+![digital map of plant nursery](assets/img/nursery_map/goldenCurrant.png)
 ```
 Park Tree Inventory 
 ```
