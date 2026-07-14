@@ -88,10 +88,10 @@ Large survey data analysis
 ```
 Technical writing for a general audience
 ```
-The <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data
+The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data
 ```
 Technical writing for a technical audience
 ```
-The <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/MSRI_technical_report.pdf" target="_blank" rel="noreferrer noopener">results section</a> of a research paper written during a summer undergraduate fellowship at the Simons Laufer Mathematical Institute in Berkeley, CA 
+The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/MSRI_technical_report.pdf" target="_blank" rel="noreferrer noopener">results section</a> of a research paper written during a summer undergraduate fellowship at the Simons Laufer Mathematical Institute in Berkeley, CA 
 
 
