@@ -184,8 +184,10 @@ import seaborn as sns; sns.set_theme()
 x = compTable(dictofRect)[1]
 ax = sns.heatmap(x)
 ;
+
 ```
 
 </div>
+
 
 the symmetries of a polygon can be formulated as the transformations that maintain sameness of the shape. For instance, a square's symmetries are the rotations and reflections of the shape that look the same as a non-rotated, non-reflected square. The set of all rotations and reflections that maintain the sameness of a shape forms an Algebraic Group, a mathematical formulation where arithmetic can be applied. One of the best known groups is the set of all positive and negative integers. All algebraic groups have multiplication tables which can be computed by composing elements of the Group with each other i.e a reflection of a square followed by a rotation. 
