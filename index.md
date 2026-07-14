@@ -66,11 +66,11 @@ def Rn(n,start,ref):
         if val == 0:  # n mod n is 0, val = 0. But we want val = n
             val = n
     return R
-"""
 
 ```
 
 </div>
+
 The full code script can be found <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
 
 ```
@@ -78,7 +78,7 @@ Naïve Bayes Classifier From Scratch in Python
 ```
 Naïve Bayes Classifier can be used to predict the value of a response variable given a set of input data. This classifier bases its predictions using bayes rule, an equation which computes the probability of an outcome given the occurrence of a set of events. I studied bayes rule in depth to write an algorithm that implemented the Naïve Bayes Classifier on a dataset with a binary response variable. Although Python has libraries that can implement this classifier with a few lines of code, I wrote the <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/csc869MiniProject1.ipynb" target="_blank" rel="noreferrer noopener">algorithm</a> from scratch to get a deeper understanding of this prediction algorithm and coding. 
 
-##Quantitative Analysis 
+## Quantitative Analysis 
 
 ```
 Analyzing survey data on healthcare membership satisfaction
@@ -86,7 +86,7 @@ Analyzing survey data on healthcare membership satisfaction
 
 
 
-##Writing
+## Writing
 ```
 Technical writing for a general audience
 ```
