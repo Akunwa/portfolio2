@@ -23,6 +23,9 @@ One of the most frequently asked questions at my nursery is "where is x plant?" 
 ```
 Park Tree Inventory 
 ```
+![digital map of park assests](assets/img/hayward_park_pics/pic3.png)
+![digital map of park assests](assets/img/hayward_park_pics/pic1.png)
+
 
 ## Coding 
 
