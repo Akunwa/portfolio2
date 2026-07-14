@@ -31,7 +31,7 @@ Park Tree Inventory
 ```
 Visualizing Geometric Symmetries
 ```
-While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course. I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying shape. I wondered what a square's multiplication talbe looked like with color. I computed the multiplication tables of squares, hexagons, and rectangles in <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">Python</a>, then applied heat maps to these tables to reveal their symmetries.
+While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course. I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying shape. I wondered what a square's multiplication talbe looked like with color. I computed the multiplication tables of squares, hexagons, and rectangles in Python, then applied heat maps to these tables to reveal their symmetries.
 
 ![visualizing geometric symmetries](assets/img/visGeomSym.png)
     
@@ -71,6 +71,29 @@ def Rn(n,start,ref):
 ```
 
 </div>
+The full code script can be found <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
+
+```
+Naïve Bayes Classifier From Scratch in Python
+```
+Naïve Bayes Classifier can be used to predict the value of a response variable given a set of input data. This classifier bases its predictions using bayes rule, an equation which computes the probability of an outcome given the occurrence of a set of events. I studied bayes rule in depth to write an algorithm that implemented the Naïve Bayes Classifier on a dataset with a binary response variable. Although Python has libraries that can implement this classifier with a few lines of code, I wrote the <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/csc869MiniProject1.ipynb" target="_blank" rel="noreferrer noopener">algorithm</a> from scratch to get a deeper understanding of this prediction algorithm and coding. 
+
+##Quantitative Analysis 
+
+```
+Analyzing survey data on healthcare membership satisfaction
+```
 
 
-the symmetries of a polygon can be formulated as the transformations that maintain sameness of the shape. For instance, a square's symmetries are the rotations and reflections of the shape that look the same as a non-rotated, non-reflected square. The set of all rotations and reflections that maintain the sameness of a shape forms an Algebraic Group, a mathematical formulation where arithmetic can be applied. One of the best known groups is the set of all positive and negative integers. All algebraic groups have multiplication tables which can be computed by composing elements of the Group with each other i.e a reflection of a square followed by a rotation. 
+
+##Writing
+```
+Technical writing for a general audience
+```
+The <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data
+```
+Technical writing for a technical audience
+```
+The <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/MSRI_technical_report.pdf" target="_blank" rel="noreferrer noopener">results section</a> of a research paper written during a summer undergraduate fellowship at the Simons Laufer Mathematical Institute in Berkeley, CA 
+
+
