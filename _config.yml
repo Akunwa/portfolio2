@@ -1,6 +1,7 @@
 title: Sylvia Nwakanma
 logo: /assets/img/profile_drawing.png
 description: 
-Work portfolio featuring data analytic and map-making projects. 
+Working portfolio featuring data analytic and map-making projects. 
 show_downloads: false
+is_project_page: false
 theme: jekyll-theme-minimal
