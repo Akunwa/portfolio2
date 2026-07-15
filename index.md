@@ -31,15 +31,13 @@ Park Tree Inventory
 ```
 Visualizing Geometric Symmetries
 ```
-While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course. I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying shape. I wondered what a square's multiplication talbe looked like with color. I computed the multiplication tables of squares, hexagons, and rectangles in Python, then applied heat maps to these tables to reveal their symmetries.
+This is one of my favorite scripts I have written in Python. While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course where I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying polygon. I wondered what these multiplication tables looked like rendered in color. I computed the multiplication tables of a square, hexagon, and rectangle in Python using dictionaries to store their rotations and reflections. I then applied heat maps to these tables to reveal their symmetries.
 
 ![visualizing geometric symmetries](assets/img/visGeomSym.png)
     
 <div style="max-height: 150px; max-width: 100%; overflow: auto;">
 <pre><code class="language-python">
-
 Helper functions
-
 """
 This function is used to create a permutation of the vertices of an n-sided polygon induced by rotations and reflections. 
 Inputs:
@@ -74,24 +72,20 @@ The full code script can be found <a href="https://github.com/Akunwa/portfolio2/
 ```
 Naïve Bayes Classifier From Scratch in Python
 ```
-Naïve Bayes Classifier can be used to predict the value of a response variable given a set of input data. This classifier bases its predictions using bayes rule, an equation which computes the probability of an outcome given the occurrence of a set of events. I studied bayes rule in depth to write an algorithm that implemented the Naïve Bayes Classifier on a dataset with a binary response variable. Although Python has libraries that can implement this classifier with a few lines of code, I wrote the <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/csc869MiniProject1.ipynb" target="_blank" rel="noreferrer noopener">algorithm</a> from scratch to get a deeper understanding of this prediction algorithm and coding. 
+Naïve Bayes Classifier can be used to predict the value of a response variable given a set of input data. This classifier bases its predictions using bayes rule, an equation which computes the probability of an outcome given the occurrence of a set of events. I studied bayes rule in depth to write an algorithm that implemented the Naïve Bayes Classifier on a dataset with a binary response variable. Although Python has libraries that can implement this classifier with a few lines of code, I wrote the <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/csc869MiniProject1.ipynb" target="_blank" rel="noreferrer noopener">algorithm</a> from scratch to get a deeper understanding of this prediction algorithm. 
 
 ## Quantitative Analysis 
 
 ```
-Large survey data analysis
+Survey Analysis On Customer Satisfaction
 ```
-
+This project was part of my 3 month internship with Kaiser Permanente, one of the largest healthcare and insurance providers in the United States. The dataset used comprised of quanitative and qualitative responses to over 100 questions with over 5000 survey respondants. I used factor analysis to reduce the dimension of the data set, extracting 10 key performance indicators from a survey of over 100 questions. The responses to these questions were used to gauge what influences Kaiser Permanente member satisfaction
 
 
 ## Writing
-```
-Technical writing for a general audience
-```
-The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data
-```
-Technical writing for a technical audience
-```
-The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/MSRI_technical_report.pdf" target="_blank" rel="noreferrer noopener">results section</a> of a research paper written during a summer undergraduate fellowship at the Simons Laufer Mathematical Institute in Berkeley, CA 
+
+Technical writting for a general audience. The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data.
+
+Technical writting for a technical audience. The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/MSRI_technical_report.pdf" target="_blank" rel="noreferrer noopener">results section</a> of a research paper written during a summer undergraduate fellowship at the Simons Laufer Mathematical Institute in Berkeley, CA 
 
 
