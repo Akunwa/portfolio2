@@ -67,7 +67,7 @@ def Rn(n,start,ref):
 
 </div>
 
-The full code script can be found <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
+The full Python script can be found <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
 
 ```
 Naïve Bayes Classifier From Scratch in Python
@@ -81,6 +81,7 @@ Survey Analysis On Customer Satisfaction
 ```
 This project was part of my 3 month internship with Kaiser Permanente, one of the largest healthcare and insurance providers in the United States. The dataset used comprised of quanitative and qualitative responses to over 100 questions with over 5000 survey respondants. I used factor analysis to reduce the dimension of the data set, extracting 10 key performance indicators from a survey of over 100 questions. The responses to these questions were used to gauge what influences Kaiser Permanente member satisfaction
 
+![survey analysis flow chart](assets/img/kPwebImg.png)
 
 ## Writing
 
