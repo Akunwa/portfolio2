@@ -25,7 +25,7 @@ I mapped the trees and shrubs at my local park using the ArcGIS's Fields Map App
 
 ![digital map of park assests](assets/img/hayward_park_pics/pic1.png)
 
-You can read more about this project <a href=fieldMap.md target="_blank" rel="noreferrer noopener">here</a>
+You can read more about this project <a href=fieldMap.md target="_blank" rel="noreferrer noopener">here</a> or [here](fieldMap.md)
 
 
 ## Coding 
