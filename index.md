@@ -22,9 +22,12 @@ One of the most frequently asked questions at my nursery is "where is x plant?" 
 ```
 Park Tree Inventory 
 ```
+I mapped the trees and shrubs at my local park using the ArcGIS's Fields Map App, a mobile application which enables real-time spatial data collection. I also assesed the accuracy of botanical signage around the park, flagging incorrect signage on the map. 
 ![digital map of park assests](assets/img/hayward_park_pics/pic3.png)
 ![digital map of park assests](assets/img/hayward_park_pics/pic1.png)
 ![digital map of park assests](assets/img/hayward_park_pics/pic2.png)
+
+You can read more about this project <a href=fieldMap.md target="_blank" rel="noreferrer noopener">here</a>
 
 
 ## Coding 
