@@ -16,8 +16,11 @@ I enjoy identifying the plant life around me, so I saw this assignment as the pe
 ## A Good Sign
 
 While collecting plant data in Hayward park, I noticed that some of the trees had signage (only the trees, not the shrubs). Though I have visited this park hundreds of times over the years, this was the first time I saw signage. At first, I used this information in my notes field to identify plant names that I was unsure of or unfamiliar with. I was delighted by this unexpected aid. Until, at least, I discovered that something was off. One of the signs was for a tree that did not exist. Inscribed was Abies cephalonica commonly known as Greek Fir. Perhaps it did in the past, but the tree now standing behind the signage was clearly not a Greek Fir tree. 
+
 ![incorrect botanical sign](assets/img/hayward_park_pics/wrongSign.png)
+
 It was a Southern Magnolia tree. I knew this because there is one growing right outside my bedroom. I realized that the signage was not just a personal memory aid, but a valuable feature of my map. I decided then to document all botanical signage. I opted out of creating another subcategory under in the Points layer just for signage. Since signage is spatially located right next to their respective plants, this could look visually clunky on a map. The Sketch layer was again an ideal tool to document this new information. I dropped pins on trees that had signage. Green pins for correct signage; yellow pins for incorrect signage. From the standpoint of a Parks and Recreational department, this is valuable information that can be used for planning when displayed in this format. 
+
 ![correct botanical sign](assets/img/hayward_park_pics/correctSign.png)
 
 This was a fun assignment with a number of unexpected turns. I got to learn new plant names and think through the intricacies of data collection. I also got more familiar with ArcGIS’s FieldMaps, a powerful tool with more applications than I can imagine. I am glad I deviated off script a bit.
