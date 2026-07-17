@@ -1,5 +1,5 @@
 # Field Mapping At Local Park
-### Signage and Redwood Tree tracking at Hayward public park
+### Signage and Redwood Tree Tracking at Public park
 
 ```
 Written and Mapped by Sylvia Nwakanma
