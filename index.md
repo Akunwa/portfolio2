@@ -42,7 +42,7 @@ Visualizing Geometric Symmetries
 This is one of my favorite scripts I have written in Python. While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course where I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying polygon. I wondered what these multiplication tables looked like rendered in color. I computed the multiplication tables of a square, hexagon, and rectangle in Python using dictionaries to store their rotations and reflections. I then applied heat maps to these tables to reveal their symmetries.
 
 <p align="center">
-  <img src=assets/img/visGeomSym.png alt="Centered image" width="500">
+<img src=assets/img/visGeomSym.png alt="Centered image" width="500">
 </p>
     
 <div style="max-height: 150px; max-width: 100%; overflow: auto;">
