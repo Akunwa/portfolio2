@@ -32,7 +32,7 @@ I mapped the trees and shrubs at my local park using the ArcGIS's Fields Map App
   <img src="assets/img/hayward_park_pics/pic1.png" alt="digital map of hayward park living assets" width="500">
 </p>
 
-You can read more about this project <a href="fieldMap.md" target="_blank" rel="noreferrer noopener">here</a> or [here](fieldMap.md)
+You can read more about this project <a href="fieldMap.html" target="_blank" rel="noreferrer noopener">here</a> or [here](fieldMap.md)
 
 
 ## Coding 
