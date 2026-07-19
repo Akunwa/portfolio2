@@ -77,6 +77,7 @@ def Rn(n,start,ref):
 
 </div>
 
+
 The full Python script can be found <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
 
 ```
