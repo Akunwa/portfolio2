@@ -13,7 +13,8 @@ Written and Mapped by Sylvia Nwakanma
 Using ArcGIS's FieldsMap App, I created a field map of Hayward park, just opposite the library located downtown. I saw this assignment as a great opportunity to expand my interests in plant identification. I also enjoyed getting into the weeds of data categorization. 
 
 <p align="center">
-  <img src="assets/img/hayward_park_pics/pic3.png" alt="Centered image" width="500">
+  <img src="assets/img/hayward_park_pics/pic3.png" alt="Hayward park map" width="500">
+  <small><i>Digital map of Hayward park living assets</i></small>
 </p>
 
 ## A Path Forward
@@ -34,6 +35,7 @@ While collecting plant data in Hayward park, I noticed that some of the trees ha
 
 <p align="center">
   <img src="assets/img/hayward_park_pics/incorrectSign.png" alt="Centered image" width="500">
+  <small><i>Left: Southern Mangolia tree. Right: incorrect botanical signage for Greek Fir</i></small>
 </p>
 
 
@@ -41,6 +43,7 @@ It was a Southern Magnolia tree. I knew this because there is one growing right 
 
 <p align="center">
   <img src="assets/img/hayward_park_pics/correctSign.png" alt="Centered image" width="500">
+  <small><i>Left: Trident Maple tree. Right: correct botanical signage for Trident Maple</i></small>
 </p>
 
 This was a fun assignment with a number of unexpected turns. I got to learn new plant names and think through the intricacies of data collection. I also got more familiar with ArcGIS’s FieldMaps, a powerful tool with more applications than I can imagine. I am glad I deviated off script a bit.
