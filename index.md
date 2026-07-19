@@ -8,7 +8,7 @@ Below are some of my projects highlighing skillsets that include digital map-mak
 
 ## Digital Mapping
 
-One of the benefits of a digital map is the ability to transform space into a database for intuitive information retrieval. Especially in the field of horticulture, knowing where plants are rooted or temporarily placed opens the door to questions about access, plant interaction, symbiosis. An a list of plants and their attributes just won't do. The projects below were developed while earning an Associates degree in Geographical Information Systems (GIS) at Chabot College. 
+One of the benefits of a digital map is the ability to transform space into a database for intuitive information retrieval. Especially in the field of horticulture, knowing where plants are rooted or temporarily placed opens the door to questions about access, plant interaction, symbiosis. A a list of plants and their attributes just won't do. The projects below were developed while earning an Associates degree in Geographical Information Systems (GIS) at Chabot College. 
 
 ```
 Map of Nursery
@@ -17,12 +17,12 @@ One of the most frequently asked questions at my nursery is "where is x plant?" 
 
 <p align="center">
   <img src="assets/img/nursery_map/full_map.png" alt="digital map of nursery" width="500">
-  <small><i>Caption text here</i></small>
+  <small><i>Digital map of nursery</i></small>
 </p>
 
 <p align="center">
   <img src="assets/img/nursery_map/nurseryMapCurrant.png" alt="native california plant in nursery map inventory" width="500">
-  <small><i>Caption text here</i></small>
+  <small><i>Left: native California plant in inventory. Right: Ribes aureum Golden Currant</i></small>
 </p>
 
 
@@ -33,19 +33,22 @@ I mapped the trees and shrubs at my local park using the ArcGIS's Fields Map App
 
 <p align="center">
   <img src="assets/img/hayward_park_pics/pic1.png" alt="digital map of hayward park living assets" width="500">
+  <small><i>Digital map of Hayward park with living assets</i></small>
 </p>
 
 You can read more about this project <a href="fieldMap.html" target="_blank" rel="noreferrer noopener">here</a>.
 
 
 ## Coding 
+Below are some of my favorite Python scripts I have written so far, one for a course while completing my Masters degree at San Francisco State University. This first script was written out of stubborn curiosity.  
 ```
 Visualizing Geometric Symmetries
 ```
-This is one of my favorite scripts I have written in Python. While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course where I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying polygon. I wondered what these multiplication tables looked like rendered in color. I computed the multiplication tables of a square, hexagon, and rectangle in Python using dictionaries to store their rotations and reflections. I then applied heat maps to these tables to reveal their symmetries. 
+I took an Abstract Algebra course where I learned that, like the integers or real numbers, shapes have multiplication tables too. The entries in these multiplication tables correspond to the rotations and reflections of the shape. Some rotations and reflections of a shape do not alter its look. These permutations are the shape's symmetries. I wondered what these multiplication tables looked like rendered in color. I especially wanted to know how these symmetries appeared. I computed the multiplication tables of a square, hexagon, and rectangle in Python using dictionaries to store their rotations and reflections. I then applied heatmaps to these tables as shown below. The hexagon has 12 symmetries. Can you spot them in the heatmap?  
 
 <p align="center">
     <img src="assets/img/visGeomSym.png" alt="visualizing geometric symmetries" width="500">
+    <small><i>From left: 12 symmetries of a regular hexagon. Multiplication table of a regular hexagon. Heatmap of multiplication table</i></small>
 </p>
     
 <div style="max-height: 150px; max-width: 100%; overflow: auto;">
@@ -80,7 +83,7 @@ def Rn(n,start,ref):
 
 </div>
 
-
+<br>
 The full Python script can be found <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
 
 ```
@@ -97,6 +100,7 @@ This project was part of my 3 month internship with Kaiser Permanente, one of th
 
 <p align="center">
   <img src="assets/img/kPwebImg.png" alt="survey analysis on customer satisfaction flowchart" width="500">
+  <small><i>Flowchart of survey analysis</i></small>
 </p>
 
 ## Writing
