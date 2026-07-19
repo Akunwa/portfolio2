@@ -17,10 +17,12 @@ One of the most frequently asked questions at my nursery is "where is x plant?" 
 
 <p align="center">
   <img src="assets/img/nursery_map/full_map.png" alt="digital map of nursery" width="500">
+  <small><i>Caption text here</i></small>
 </p>
 
 <p align="center">
   <img src="assets/img/nursery_map/nurseryMapCurrant.png" alt="native california plant in nursery map inventory" width="500">
+  <small><i>Caption text here</i></small>
 </p>
 
 
