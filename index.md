@@ -14,16 +14,23 @@ One of the benefits of a digital map is the ability to transform space into a da
 Map of Nursery
 ```
 One of the most frequently asked questions at my nursery is "where is x plant?" I created a digital map of the nursery so that customers and staff can address questions like these.
+<p align="center">
+  <img src=assets/img/nursery_map/full_map.png alt="Centered image" width="500">
+</p>
 
-![digital map of plant nursery](assets/img/nursery_map/full_map.png)
-![digital map of plant nursery](assets/img/nursery_map/nurseryMapCurrant.png)
+<p align="center">
+  <img src=assets/img/nursery_map/nurseryMapCurrant.png alt="Centered image" width="500">
+</p>
+
 
 ```
 Park Tree Inventory 
 ```
 I mapped the trees and shrubs at my local park using the ArcGIS's Fields Map App, a mobile application which enables real-time spatial data collection. I also assesed the accuracy of botanical signage around the park, flagging incorrect signage on the map.
 
-![digital map of park assests](assets/img/hayward_park_pics/pic1.png)
+<p align="center">
+  <img src=assets/img/hayward_park_pics/pic1.png alt="Centered image" width="500">
+</p>
 
 You can read more about this project <a href=fieldMap.md target="_blank" rel="noreferrer noopener">here</a> or [here](fieldMap.md)
 
@@ -34,7 +41,9 @@ Visualizing Geometric Symmetries
 ```
 This is one of my favorite scripts I have written in Python. While completing a Master degree in Statistics at San Francisco State Universtiy, I took an Abstract Algebra course where I learned that, like the integers or real numbers, shapes have multiplication tables too. These multiplication tables can look even more abstract than a 12x12 times table, with letters and numbers corresponding to a rotation or reflection of an underlying polygon. I wondered what these multiplication tables looked like rendered in color. I computed the multiplication tables of a square, hexagon, and rectangle in Python using dictionaries to store their rotations and reflections. I then applied heat maps to these tables to reveal their symmetries.
 
-![visualizing geometric symmetries](assets/img/visGeomSym.png)
+<p align="center">
+  <img src=assets/img/visGeomSym.png alt="Centered image" width="500">
+</p>
     
 <div style="max-height: 150px; max-width: 100%; overflow: auto;">
 <pre><code class="language-python">
@@ -82,7 +91,9 @@ Survey Analysis On Customer Satisfaction
 ```
 This project was part of my 3 month internship with Kaiser Permanente, one of the largest healthcare and insurance providers in the United States. The dataset used comprised of quanitative and qualitative responses to over 100 questions with over 5000 survey respondants. I used factor analysis to reduce the dimension of the data set, extracting 10 key performance indicators from a survey of over 100 questions. The responses to these questions were used to gauge what influences Kaiser Permanente member satisfaction
 
-![survey analysis flow chart](assets/img/kPwebImg.png)
+<p align="center">
+  <img src=assets/img/kPwebImg.png alt="Centered image" width="500">
+</p>
 
 ## Writing
 
