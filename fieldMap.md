@@ -1,3 +1,8 @@
+---
+layout: page
+title: Field Map Project
+---
+
 # Field Mapping At Local Park
 ### Signage and Redwood Tree Tracking at Public Park
 
