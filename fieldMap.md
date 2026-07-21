@@ -3,15 +3,7 @@ layout: page
 title: Field Map Project
 ---
 
-<style>
-  /* Adds extra padding/margins to the main text body container */
-  .wrapper, section {
-    max-width: 900px;        /* Widens or narrows the text boundary box */
-    margin: 0 auto;         /* Centers the content block on the screen */
-    padding-left: 40px;     /* Left margin bumper padding */
-    padding-right: 40px;    /* Right margin bumper padding */
-  }
-</style>
+<div style="max-width: 750px; margin: 0 auto; padding: 0 40px;">
 
 # Field Mapping At Local Park
 ### Signage and Redwood Tree Tracking
@@ -61,4 +53,6 @@ This was a fun assignment with a number of unexpected turns. I got to learn new 
 ```
 This project was develeped while completing a certificate program in Geographical Information System (GIS) at Chabot College
 ```
+
+</div>
 
