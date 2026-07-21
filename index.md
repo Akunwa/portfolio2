@@ -105,7 +105,7 @@ This project was part of my 3 month internship with Kaiser Permanente, one of th
 
 ## Writing
 
-Technical writting for a general audience. The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener" type="application/pdf">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data.
+Technical writting for a general audience. The <a href="/assets/doc/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener" type="application/pdf">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data. UPDATE?
 
 Technical writting for a technical audience. The <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/MSRI_technical_report.pdf" target="_blank" rel="noreferrer noopener">results section</a> of a research paper written during a summer undergraduate fellowship at the Simons Laufer Mathematical Institute in Berkeley, CA 
 
