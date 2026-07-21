@@ -84,12 +84,12 @@ def Rn(n,start,ref):
 </div>
 
 <br>
-The full Python script can be found <a href="https://github.com/Akunwa/portfolio2/blob/main/assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
+The full Python script can be found <a href="assets/doc/vis_geom_sym.ipynb" target="_blank" rel="noreferrer noopener">here</a>
 
 ```
 Naïve Bayes Classifier From Scratch in Python
 ```
-Naïve Bayes Classifier can be used to predict the value of a response variable given a set of input data. This classifier bases its predictions using bayes rule, an equation which computes the probability of an outcome given the occurrence of a set of events. I studied bayes rule in depth to write an algorithm that implemented the Naïve Bayes Classifier on a dataset with a binary response variable. Although Python has libraries that can implement this classifier with a few lines of code, I wrote the <a href="https://github.com/Akunwa/Akunwa.github.io/blob/main/documents/csc869MiniProject1.ipynb" target="_blank" rel="noreferrer noopener">algorithm</a> from scratch to get a deeper understanding of this prediction algorithm. 
+Naïve Bayes Classifier can be used to predict the value of a response variable given a set of input data. This classifier bases its predictions using bayes rule, an equation which computes the probability of an outcome given the occurrence of a set of events. I studied bayes rule in depth to write an algorithm that implemented the Naïve Bayes Classifier on a dataset with a binary response variable. Although Python has libraries that can implement this classifier with a few lines of code, I wrote the <a href="assets/doc/csc869MiniProject1.ipynb" target="_blank" rel="noreferrer noopener">algorithm</a> from scratch to get a deeper understanding of this prediction algorithm. 
 
 ## Quantitative Analysis 
 
@@ -105,7 +105,7 @@ This project was part of my 3 month internship with Kaiser Permanente, one of th
 
 ## Writing
 
-Technical writting for a general audience. The <a href="assets/doc/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener" type="application/pdf">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data. UPDATE1
+Technical writting for a general audience. The <a href="assets/doc/SeniorThesisChpt1.pdf" target="_blank" rel="noreferrer noopener">introductory chapter</a> of my year-long undergraduate senior thesis at Pomona College on mining summary information from large text data. UPDATE1
 
 Technical writting for a technical audience. The <a href="assets/doc/MSRI_technical_report.pdf" target="_blank" rel="noreferrer noopener">results section</a> of a research paper written during a summer undergraduate fellowship at the Simons Laufer Mathematical Institute in Berkeley, CA 
 
