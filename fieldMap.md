@@ -3,7 +3,7 @@ layout: page
 title: Field Map Project
 ---
 
-<div style="max-width: 750px; margin: 0 auto; padding: 0 40px; markdown="1">
+<div style="max-width: 750px; margin: 0 auto; padding: 0 40px;" markdown="1">
 
 # Field Mapping At Local Park
 ### Signage and Redwood Tree Tracking
