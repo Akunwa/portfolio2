@@ -2,6 +2,15 @@
 layout: page
 title: Field Map Project
 ---
+<style>
+  /* Adds extra padding/margins to the main text body container */
+  .wrapper, section {
+    max-width: 900px;        /* Widens or narrows the text boundary box */
+    margin: 0 auto;         /* Centers the content block on the screen */
+    padding-left: 40px;     /* Left margin bumper padding */
+    padding-right: 40px;    /* Right margin bumper padding */
+  }
+</style>
 
 # Field Mapping At Local Park
 ### Signage and Redwood Tree Tracking
