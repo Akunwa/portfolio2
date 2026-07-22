@@ -17,6 +17,7 @@ Using ArcGIS's FieldsMap App, I created a field map of Hayward park, just opposi
 <p align="center">
   <img src="assets/img/hayward_park_pics/pic3.png" alt="Hayward park map" width="500">
   <br>
+  <br>
   <small><i>Digital map of Hayward park living assets</i></small>
 </p>
 
@@ -39,6 +40,7 @@ While collecting plant data in Hayward park, I noticed that some of the trees ha
 <p align="center">
   <img src="assets/img/hayward_park_pics/incorrectSign.png" alt="Centered image" width="500">
   <br>
+  <br>
   <small><i>Left: Southern Mangolia tree. Right: incorrect botanical signage for Greek Fir</i></small>
 </p>
 
@@ -47,6 +49,7 @@ It was a Southern Magnolia tree. I knew this because there is one growing right 
 
 <p align="center">
   <img src="assets/img/hayward_park_pics/correctSign.png" alt="Centered image" width="500">
+  <br>
   <br>
   <small><i>Left: Trident Maple tree. Right: correct botanical signage for Trident Maple</i></small>
 </p>
