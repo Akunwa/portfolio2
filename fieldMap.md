@@ -12,7 +12,7 @@ title: Field Map Project
 Written and Mapped by Sylvia Nwakanma
 ```
 
-Using ArcGIS's FieldsMap App, I created a field map of Hayward park, just opposite the library located downtown. I saw this assignment as a great opportunity to expand my interests in plant identification. I also enjoyed getting into the weeds of data categorization. UPDATE
+Using ArcGIS's FieldsMap App, I created a field map of Hayward park, just opposite the library located downtown. I saw this assignment as a great opportunity to expand my interests in plant identification. I also enjoyed getting into the weeds of data categorization.
 
 <p align="center">
   <img src="assets/img/hayward_park_pics/pic3.png" alt="Hayward park map" width="500">
